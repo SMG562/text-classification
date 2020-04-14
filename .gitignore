@@ -1,0 +1,3 @@
+**/data
+
+# **/data matches all files or directories named data (same as the pattern logs)
